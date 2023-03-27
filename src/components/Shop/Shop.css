@@ -9,3 +9,31 @@
      gap: 45px;
      margin: 100px;
 }
+
+
+
+
+
+/* @media screen and (max-width:992px) {
+    .shop-container{
+        grid-template-columns:repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width:572px) {
+    .shop-container{
+        grid-template-columns:repeat(2, 1fr);
+    }
+}
+
+@media screen and (max-width:992px) {
+    .products-container{
+        grid-template-columns:repeat(3, 1fr);
+    }
+}
+
+@media screen and (max-width:572px) {
+    .products-container{
+        grid-template-columns:repeat(2, 1fr);
+    }
+} */

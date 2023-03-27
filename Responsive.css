@@ -1,0 +1,5 @@
+@media screen and (max-width:992px) {
+    .shop-container{
+       grid-template-columns: 2 1fr;
+    }
+}
